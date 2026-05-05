@@ -1,0 +1,1 @@
+- [x] Step 1: Install GitHub CLI (gh) - Installed but PATH refresh issue, proceeding with git\n
